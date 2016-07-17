@@ -41,7 +41,7 @@ require_once("config/config.php");
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-md-4">
-						Powered by <a href="http://swl.pp.ua" class="f-link" target="_blank">Scorpion Web Lair</a>. 2014-2016 &copy;<br>
+						Coded &amp; Designed by <a href="http://swl.pp.ua" class="f-link" target="_blank">Scorpion Web Lair</a>. Copyright 2016 &copy;<br>
 					</div>
 					<div class="col-md-4">
 					</div>
